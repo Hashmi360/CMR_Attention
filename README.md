@@ -2,4 +2,4 @@ This is the code repository for the paper "Cardiac MRI Reconstruction with CMRat
 
 Acknowledgements
 
-https://github.com/juliadietlmeier/CMRxRecon_insightdcu,   https://github.com/changzy00/pytorch-attention
+https://github.com/juliadietlmeier/CMRxRecon_insightdcu,   https://github.com/changzy00/pytorch-attention,  https://github.com/CmrxRecon/CMRxRecon
